@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\chrome download\Calculator-82a7622f28fa7ffcc0f732d49cfe602e82fd1a62\Calculator-82a7622f28fa7ffcc0f732d49cfe602e82fd1a62\Calculator.iml" filepath="D:\chrome download\Calculator-82a7622f28fa7ffcc0f732d49cfe602e82fd1a62\Calculator-82a7622f28fa7ffcc0f732d49cfe602e82fd1a62\Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculator-Normal.iml" filepath="$PROJECT_DIR$/Calculator-Normal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
